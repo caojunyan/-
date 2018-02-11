@@ -1,0 +1,1 @@
+{"version":3,"sources":["Birds.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,KAAN,CAAW","file":"Birds-compiled.js","sourcesContent":["//小鸟类\r\nexport class Birds{\r\n\r\n}"]}

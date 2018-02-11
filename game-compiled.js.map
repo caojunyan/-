@@ -1,0 +1,1 @@
+{"version":3,"sources":["game.js"],"names":[],"mappings":"AAAA,SAAQ,IAAR,QAAmB,WAAnB;AACA,IAAI,IAAJ","file":"game-compiled.js","sourcesContent":["import {Main} from \"./Main.js\";\nnew Main()"]}

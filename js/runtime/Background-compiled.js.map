@@ -1,0 +1,1 @@
+{"version":3,"sources":["Background.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,UAAN,CAAgB","file":"Background-compiled.js","sourcesContent":["//背景类\r\nexport class Background{\r\n    \r\n}"]}

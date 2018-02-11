@@ -1,0 +1,1 @@
+{"version":3,"sources":["Sprite.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,MAAN,CAAY","file":"Sprite-compiled.js","sourcesContent":["//精灵的基类，负责初始化精灵加载的资源和大小及位置\r\nexport class Sprite{\r\n\r\n}"]}

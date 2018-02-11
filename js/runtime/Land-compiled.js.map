@@ -1,0 +1,1 @@
+{"version":3,"sources":["Land.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,IAAN,CAAU","file":"Land-compiled.js","sourcesContent":["//陆地类\r\nexport class Land{\r\n    \r\n}"]}

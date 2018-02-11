@@ -1,0 +1,1 @@
+{"version":3,"sources":["DataStore.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,SAAN,CAAe","file":"DataStore-compiled.js","sourcesContent":["//变量缓存器，方便我们在不同的类中访问和修改变量\r\nexport class DataStore{\r\n\r\n}"]}

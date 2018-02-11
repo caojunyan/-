@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/base/ResourceLoader-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/base/Resources-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/Director-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/runtime/DownPencil-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/base/Sprite-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/base/DataStore-compiled.js" />
+        <item url="file://$PROJECT_DIR$/Main-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/player/StartButton-compiled.js" />
+        <item url="file://$PROJECT_DIR$/game-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/player/Score-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/player/Birds-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/runtime/UpPencil-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/runtime/Land-compiled.js" />
+        <item url="file://$PROJECT_DIR$/js/runtime/Background-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/base/ResourceLoader-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/base/Resources-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/Director-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/runtime/DownPencil-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/base/Sprite-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/base/DataStore-compiled.js" />
+      <root url="file://$PROJECT_DIR$/Main-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/player/StartButton-compiled.js" />
+      <root url="file://$PROJECT_DIR$/game-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/player/Score-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/player/Birds-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/runtime/UpPencil-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/runtime/Land-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/runtime/Background-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

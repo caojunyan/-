@@ -1,0 +1,1 @@
+{"version":3,"sources":["Score.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,KAAN,CAAW","file":"Score-compiled.js","sourcesContent":["//计分器类\r\nexport class Score{\r\n\r\n}"]}

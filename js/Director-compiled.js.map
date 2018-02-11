@@ -1,0 +1,1 @@
+{"version":3,"sources":["Director.js"],"names":[],"mappings":"AAAA;AACA,OAAO,MAAM,QAAN,CAAc","file":"Director-compiled.js","sourcesContent":["//导演类，控制逻辑\r\nexport class Director{\r\n\r\n}"]}
